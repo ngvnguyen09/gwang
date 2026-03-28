@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+websockets
+faster-whisper
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+pymupdf
+numpy
+openai
